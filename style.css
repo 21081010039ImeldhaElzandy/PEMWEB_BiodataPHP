@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+
+.box {
+    margin: 3px auto;
+    width: 1000px;
+    height: 1200px;
+    background-color: whitesmoke;
+}
+
+.box .sisiAtas { 
+    font-size: large;
+    width: 1000px;
+    height: 125px;
+    background-color: rgb(203, 226, 234);
+}
+
+.sisiAtas h1 {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: black; padding: 40px;
+}
+
+.sisiTengah .tabel1 h2,p {
+    border: 0;
+    width: 1000px;
+    height: 20px;
+    color: black; text-align: center; font-size: 14pt; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sisiTengah .tabel1 .gambar {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.sisiTengah .table2 {
+    border: 0;
+    margin: 50px auto; 
+    border-color: black;
+    width: 600px;
+    height: 200px;
+    color: black; text-align: justify; font-size: 14pt; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sisiTengah .a {
+    background-color: rgb(203, 226, 234);
+}
+
+.sisiTengah .b {
+    background-color: rgb(248, 220, 225);
+}
+
+.box .sisiBawah {
+    width: 1000px;
+    height: 90px;
+    background-color: rgb(248, 220, 225);
+}
